@@ -1,0 +1,6 @@
+---
+applications:
+- name: search-service-consumer
+  memory: 256M
+  instances: 1
+  path: target/search_service_consumer.war
