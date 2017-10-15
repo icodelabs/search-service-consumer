@@ -2,7 +2,8 @@
 This application consumes search service exposed by 'search-service-broker' on cloud foundry.
 
 Please refer to:
-https://github.com/cbagade/search-service-broker  for broker application.
+https://github.com/cbagade/search-service-broker  
+for broker application.
 
 Once the service is exposed on cloud foundry platform, other applications can bind it. 
 Please refer cloud foundry documentation for details regarding exposing service and binding.
